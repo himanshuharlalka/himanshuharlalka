@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello👋, I am Himanshu.
 
-<!--
-**himanshuharlalka/himanshuharlalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 I am a huge Data Structures and Algorithm enthuasiast and I have solved over 300 problems across platforms such as LeetCode and GeeksForGeeks. 
+- ⭐ I am currently rated 4 stars on CodeChef.
+- 📈 I achieved **#45** in April Cook-Off 2022 Division 2.
+- 🔭 I’m currently working on mobile applications and Flutter.
+- 🌱 I’m currently learning MERN stack and BlockChain.
+- 🤔 I’m looking for help with resources for BlockChain.
+- 💬 Ask me about anything.
 
-Here are some ideas to get you started:
+Links: 
+[LinkedIn](https://www.linkedin.com/in/himanshu-harlalka-ba0a8b1ab/)
+[CodeChef](https://www.codechef.com/users/himanshu__11)
+[LeetCode](https://leetcode.com/himanshuharlalka/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
